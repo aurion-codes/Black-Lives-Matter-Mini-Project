@@ -1,0 +1,37 @@
+
+{
+  "victims": [
+    {
+      "name":  "Rayshaurd Brooks, Age: 27",
+      "age": "Song: God's Plan",
+      "location": "Atlanta, Ga",
+      "story": ".",
+      "url": "/BLM/rayshard_b.jpg"
+      
+    },
+    {
+      "name": "Breonna Taylor",
+      "age": " Song: One Dance feat. WizKid and Kyla",
+      "location": "Album: Views",
+      "story": "./assets/views.jpg",
+      "url": "/BLM/rayshard_b.jpg"
+  
+    },
+    {
+      "name": "Daunte Wright, ",
+      "age": " Song: Champagne Poetry",
+      "location": "Brooklyn Center",
+      "story": "/assets/lover_boy.jpg",
+      "url": "/BLM/daunte_w.jpg"
+      
+    },
+     {
+       "name": "Breonna Taylor, Age:26",
+       "age": "March 13, 2020",
+      "location": "Louisville, Kentucky",
+      "story": "/Shortly after midnight on March 13, 2020, Breonna Taylor, a 26-year-old Black emergency medical technician, is shot and killed by police in her Louisville, Kentucky apartment after officers busted through her door with a battering ram .",
+      "url": "/BLM/Breonna_taylor.jpg"
+    }
+    
+  ]
+}
